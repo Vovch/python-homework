@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='tagcounter',
-    version='1.0',
+    version='1.1',
     author='Vladimir_Mironov2',
     packages=['tagcounter'],
     description='Description',
